@@ -1,0 +1,59 @@
+
+.fila_head{
+    font-family: arial;
+    font-size: 100%;
+    font-style: italic;
+    font-variant: small-caps;
+    color: aquamarine;
+ }
+
+table{
+    border-collapse:collapse;
+    background-color: rgb(8, 216, 253);
+    border: 1px dotted black;
+    border-bottom-color: aquamarine;
+    margin:0 auto;
+ }
+
+td{
+    border: 1px dotted black;
+ }
+.fila_head{
+    font-family: arial;
+    font-size: 100%;
+    font-style: italic;
+    font-variant: small-caps;
+    color: aquamarine;
+ }
+
+table{
+    border-collapse:collapse;
+    background-color: rgb;
+    border: 1px dotted black;
+    border-bottom-color: aquamarine;
+    margin:0 auto;
+ }
+
+td{
+    border: 1px dotted black;
+ }
+.fila_head{
+    font-family: arial;
+    font-size: 100%;
+    font-style: italic;
+    font-variant: small-caps;
+    color: aquamarine;
+ }
+
+table{
+    border-collapse:collapse;
+    background-color: rgb;
+    border: 1px dotted black;
+    border-bottom-color: aquamarine;
+    margin:0 auto;
+ }
+
+td{
+    border: 1px dotted black;
+ }
+

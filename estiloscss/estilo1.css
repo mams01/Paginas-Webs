@@ -1,0 +1,89 @@
+
+.azul{
+    font-size: 130%;
+    font-weight: bold;
+    font-family: verdana;
+    color: blue;
+}
+.rojo{
+    font-size: 130%;
+    font-weight: bold;
+    font-family: verdana;
+    color: #ff0000;
+}
+
+
+b {
+    color: red;
+}
+.prueba{
+    text-decoration: underline overline;    
+}
+#prueba2{
+    font-size: 30pt;
+    font-weight: bold;
+}
+a:hover{font-weight:bold;}
+a:link{color: green;}
+a:visited{color: red;}
+h3{color: blue;font-weight: bold;}
+h3 b{text-decoration: underline;}
+
+
+.xul{    
+    list-style-type: none;
+    margin: 20px;
+    padding: 20px;
+    overflow: hidden;
+    background-color: #21b90d;
+}
+.xli{float:left;}
+
+.xli a{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+.xli a:hover{background-color: rgb(169, 169, 173);}
+
+
+.fila_head1{
+    font-family: arial;
+    font-size: 100%;
+    font-style: italic;
+    font-variant: small-caps;
+    color: aquamarine;
+}
+
+*table{
+    border-collapse:collapse;
+    background-color: rgb(8, 216, 253);
+    border: 1px dotted black;
+    border-bottom-color: aquamarine;
+    margin:0 auto;
+}*
+
+td{
+    border: 1px dotted black;
+}
+
+.fila_head{
+    font-family: arial;
+    font-size: 100%;
+    font-style: italic;
+    font-variant: small-caps;
+    color: red;
+}
+
+table{
+    border-collapse:collapse;
+    background-color: yellow;
+    border: 1px dotted black;
+    border-bottom-color: red;
+    margin:0 auto;
+}
+
+td{
+    border: 1px dotted black;
+}
